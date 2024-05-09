@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "netzih",
+  "repo": "container-kiwqxsy",
+  "name": "netzih",
+  "email": "info@chabadofrichmond.com",
+}
